@@ -1,0 +1,33 @@
+{
+	"name": "Vladimir Koval",
+	"position": "Front-End Developer",
+	"avatarSrc": "/img/avatar.png",
+	"goals": "Obtain a chalenging and long term Front-End developer position, where I will be able to improve technical skills and progress as a Javascript developer day by day",
+	"dreams": "Of course, I dream about happy, healthy family, like everybody in this world, I guess so:) But besides, my dream is to grow as a technical proffecional, continually develop myself and conquer new peaks in this career field",
+	"skills": [
+		{ "name": "HTML5", "level": 8 },
+		{ "name": "CSS3", "level": 8 },
+		{ "name": "JavaScript", "level": 8 },
+		{ "name": "AJAX", "level": 8 },
+		{ "name": "ReactJS", "level": 7 },
+		{ "name": "Redux", "level": 6 },
+		{ "name": "SASS/SCSS", "level": 8 },
+		{ "name": "Webpack", "level": 7 },
+		{ "name": "Gulp", "level": 8 },
+		{ "name": "jQuery", "level": 7 },
+		{ "name": "Git", "level": 7 },
+		{ "name": "Three.js (basics)", "level": 3 }
+	],
+
+	"contacts": {
+		"phone": {
+			"text": "+38 (063) 683 86 75",
+			"link": "+380636838675"
+		},
+		"email": "vladimmirkoval@gmail.com",
+		"viber": {
+			"text": "+38 (063) 683 86 75",
+			"link": "380636838675"
+		}
+	}
+}
